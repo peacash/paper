@@ -1,4 +1,4 @@
-# Peacash: A lightweight cryptocurrency
+# Peacash - The Technical Paper
 
 **Abstract.** A lightweight cryptocurrency that can handle thousands of tps (transactions per second) is required to meet future demands. Reducing transaction sizes increases the networks throughput. Reducing the size of the blockchain also lowers the barrier of entry for resource constrained devices.
 
